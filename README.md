@@ -7,11 +7,6 @@ Now for the admin side, admin can log-in to its portal by provide its credential
 Here for the user's interface we have used html,css,js, along with jquery and bootstraph 4, for developing server side we have used node.js with express framework and mongoDB as our database.
 
 
-password: admin
 
-# running project available
 
-```
-https://new-react-app1.herokuapp.com/
-```
 
